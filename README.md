@@ -21,7 +21,7 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 I love the "aha!" moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://afifa-personal-portfolio.vercel.app))
       
 ## 🔭 What I'm Currently Working On 
 
