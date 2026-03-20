@@ -1,7 +1,7 @@
 ## Hi there, I'm AFIFA MOL B 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Research+Analyst+%7C+Dashboard+%26+Insights+Creator" alt="Typing SVG" />
+<<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Afifa+Mol+B;Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau+%7C+Excel;Research+Analyst+%7C+Dashboard+%26+Insights+Creator" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
