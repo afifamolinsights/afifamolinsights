@@ -31,7 +31,8 @@ I love the "aha!" moment when data reveals something new and useful.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
+ **UPI Transaction Analysis:**  - Built a machine learning model and Tableau dashboard to analyze transaction performance and generate insights.  
+  🔗 https://github.com/afifamolinsights/upi-transaction-network-performance-analysis  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
